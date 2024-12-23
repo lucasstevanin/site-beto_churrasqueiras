@@ -256,7 +256,7 @@ section {
 }
 
 .custom-navbar .navbar-nav.navbar-right .section-btn:hover {
-  background: #a83e00;
+  background: #706b00;
   color: #ffffff;
 }
 
@@ -284,7 +284,7 @@ section {
 
 .custom-navbar .nav li a:hover {
   background: transparent;
-  color: #a09800;
+  color: #706b00;
 }
 
 .custom-navbar .navbar-nav>li>a:hover,
@@ -294,7 +294,7 @@ section {
 
 .custom-navbar .nav li.active>a {
   background-color: transparent;
-  color: #a09800;
+  color: #706b00;
 }
 
 .custom-navbar .navbar-toggle {
@@ -764,12 +764,12 @@ section {
 }
 
 #contact button#cf-submit:hover {
-  background: #a83e00;
+  background: #a09800;
   color: #ffffff;
 }
 
 #contact button#cf-submit2:hover {
-  background: #a83e00;
+  background: #a09800;
   color: #ffffff;
 }
 
